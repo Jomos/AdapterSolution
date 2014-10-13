@@ -1,0 +1,7 @@
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductAdapterLib\bin\Debug\ProductAdapterLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductAdapterLib\bin\Debug\ProductAdapterLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductAdapterLib\bin\Debug\ProductLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductAdapterLib\bin\Debug\ProductLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductAdapterLib\obj\Debug\ProductAdapterLib.csprojResolveAssemblyReference.cache
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductAdapterLib\obj\Debug\ProductAdapterLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductAdapterLib\obj\Debug\ProductAdapterLib.pdb
