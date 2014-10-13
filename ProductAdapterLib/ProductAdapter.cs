@@ -14,5 +14,12 @@ namespace ProductAdapterLib
         public string BarCode { get; set; }
 
         public string Title { get; set; }
+
+        public ProductAdapter(SomeExternalVendorProduct externalProduct)
+        {
+            Title = externalProduct.Description;
+            UnitPrice = externalProduct.PricePerUnit;
+            BarCode = externalProduct.EANCode;
+        }
     }
 }
