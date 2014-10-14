@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProductLib
+﻿namespace ProductLib
 {
-    public class AbstactProduct:IProduct
+    public abstract class AbstactProduct:IProduct
     {
         private string title;
         private string barCode;
