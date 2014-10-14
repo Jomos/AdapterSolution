@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProductLib
 {
-    public class Product:IProduct
+    public class Product:AbstactProduct
     {
-        public decimal UnitPrice { get; set; }
-
-        public string BarCode { get; set; }
-
-        public string Title { get; set; }
+        public Product(string title, string barCode, decimal unitPrice):base(title,barCode,unitPrice)
+        {
+            
+        }
     }
 }

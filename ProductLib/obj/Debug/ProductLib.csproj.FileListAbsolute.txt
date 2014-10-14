@@ -3,3 +3,8 @@ C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterS
 C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductLib\obj\Debug\ProductLib.csprojResolveAssemblyReference.cache
 C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductLib\obj\Debug\ProductLib.dll
 C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductLib\obj\Debug\ProductLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductLib\bin\Debug\ProductLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductLib\bin\Debug\ProductLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductLib\obj\Debug\ProductLib.csprojResolveAssemblyReference.cache
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductLib\obj\Debug\ProductLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductLib\obj\Debug\ProductLib.pdb

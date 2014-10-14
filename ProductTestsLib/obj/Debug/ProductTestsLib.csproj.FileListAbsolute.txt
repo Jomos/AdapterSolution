@@ -7,3 +7,12 @@ C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterS
 C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductTestsLib\bin\Debug\ProductLib.dll
 C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductTestsLib\bin\Debug\ProductAdapterLib.pdb
 C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\NackademinProg13\AdapterSolution\ProductTestsLib\bin\Debug\ProductLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\bin\Debug\ProductTestsLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\bin\Debug\ProductTestsLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\bin\Debug\ProductAdapterLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\bin\Debug\ProductLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\bin\Debug\ProductAdapterLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\bin\Debug\ProductLib.pdb
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\obj\Debug\ProductTestsLib.csprojResolveAssemblyReference.cache
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\obj\Debug\ProductTestsLib.dll
+C:\Users\Jörgen\Documents\Visual Studio 2013\Projects\AdapterSolution\ProductTestsLib\obj\Debug\ProductTestsLib.pdb

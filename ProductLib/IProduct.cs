@@ -8,8 +8,8 @@ namespace ProductLib
 {
     public interface IProduct
     {
-        decimal UnitPrice { get; set; }
-        string BarCode { get; set; }
-        string Title { get; set; }
+        decimal UnitPrice { get; }
+        string BarCode { get; }
+        string Title { get; }
     }
 }

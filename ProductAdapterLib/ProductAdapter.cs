@@ -7,19 +7,12 @@ using ProductLib;
 
 namespace ProductAdapterLib
 {
-    public class ProductAdapter:IProduct
+    public class ProductAdapter:AbstactProduct
     {
-        public decimal UnitPrice { get; set; }
-
-        public string BarCode { get; set; }
-
-        public string Title { get; set; }
-
+        
         public ProductAdapter(SomeExternalVendorProduct externalProduct)
+            :base(externalProduct.Description,externalProduct.EANCode,externalProduct.PricePerUnit)
         {
-            Title = externalProduct.Description;
-            UnitPrice = externalProduct.PricePerUnit;
-            BarCode = externalProduct.EANCode;
         }
     }
 }

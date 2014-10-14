@@ -6,12 +6,12 @@ using ProductLib;
 namespace ProductTestsLib
 {
     [TestClass]
-    public class AdapterTest
+    public class ProductTest
     {
         [TestMethod]
         public void TestProduct()
         {
-            IProduct product = new Product() { BarCode = "123456", Title = "Hairdryer", UnitPrice = 120 };
+            IProduct product = new Product("Hairdryer", "123456", 120);
             //Assign
             string expectedTitle = "Hairdryer";
             string expectedBarCode = "123456";
@@ -29,29 +29,27 @@ namespace ProductTestsLib
             Assert.AreEqual(expectedUnitprice, actualUnitprice);
         }
 
-            
-            [TestMethod]
+
+        [TestMethod]
         public void TestAdapterProduct()
         {
-            ProductAdapterLib.SomeExternalVendorProduct externalProduct = new SomeExternalVendorProduct(){Description = "Hairdryer",EANCode = "123456",PricePerUnit = 120};
+            ProductAdapterLib.SomeExternalVendorProduct externalProduct = new SomeExternalVendorProduct() { Description = "Hairdryer", EANCode = "123456", PricePerUnit = 120 };
             IProduct product = new ProductAdapter(externalProduct);
-                //Assign
+            //Assign
             string expectedTitle = "Hairdryer";
             string expectedBarCode = "123456";
             decimal expectedUnitprice = 120;
-            
+
             //Act
-            
-                string actualTitle = product.Title;
-                string actualBarCode = product.BarCode;
-                decimal actualUnitprice = product.UnitPrice;
+
+            string actualTitle = product.Title;
+            string actualBarCode = product.BarCode;
+            decimal actualUnitprice = product.UnitPrice;
 
             //Assert
-            Assert.AreEqual(expectedTitle,actualTitle);
+            Assert.AreEqual(expectedTitle, actualTitle);
             Assert.AreEqual(expectedBarCode, actualBarCode);
             Assert.AreEqual(expectedUnitprice, actualUnitprice);
         }
-            
-
     }
 }
